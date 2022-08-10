@@ -28,4 +28,4 @@ resource "aws_instance" "ubuntu" {
   }
 }
 
-//* this is a test hello 2
+//* this is a test demo
